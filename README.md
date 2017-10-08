@@ -1,2 +1,2 @@
-Hello everybody, this is Global-Industry-and-Technology-Strategy class <br>
-You can upload your team's PPT here.
+各位同学好，这是产业前沿课程的github <br>
+你们可以在此上传组内的任务。
