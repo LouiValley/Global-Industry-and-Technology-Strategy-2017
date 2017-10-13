@@ -1,0 +1,10 @@
+﻿(2017-10-9). "Intel4004." from https://en.wikipedia.org/wiki/Intel_4004.
+	
+Moons B, V. M. (2017). "An Energy-Efficient Precision-Scalable ConvNet Processor in 40-nm CMOS." IEEE Journal of Solid-State Circuits 52(4):: 903-914.
+	
+Sze V, C. Y. H., Einer J (2017). Hardware for machine learning: Challenges and opportunities. IEEE Custom Integrated Circuits Conference.
+	
+鲁瑞兵, 魏. (1999). "深亚微米集成电路高层次设计方法进展." 电子科技导报 (04):7-11+17.
+	
+魏少军 (1998). "集成电路设计方法学的几个热点." 电子科技导报 (01):20-24.
+	
