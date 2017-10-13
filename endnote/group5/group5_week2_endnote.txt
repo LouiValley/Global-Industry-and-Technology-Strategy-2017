@@ -1,0 +1,57 @@
+﻿中国产业信息网 (2017). "2017年全球增强现实发展概况、市场规模、区域分布及重点厂商布局分析【图】." from http://www.chyxx.com/industry/201709/561723.html.
+
+. "Arkit." from https://developer.apple.com/arkit/.
+	
+. "google glass." from https://zh.wikipedia.org/wiki/Google%E7%9C%BC%E9%95%9C.
+	
+ Google’s ARCore brings augmented reality to millions of Android devices. https://arstechnica.com/gadgets/2017/08/googles-arcore-brings-augmented-reality-to-millions-of-android-devices.
+	
+. " HoloLens." from https://zh.wikipedia.org/wiki/Microsoft_HoloLens.
+	
+. "Magic Leap." from https://en.wikipedia.org/wiki/Magic_Leap.
+	
+. "Tango google tango." from https://en.wikipedia.org/wiki.
+
+199IT (2016年05月5日). "Digi-Capital：AR/VR商业模式探索." Retrieved 10.11, 2017, from http://www.199it.com/archives/459738.html.
+	
+Bobeshko, A. (2016, 2016.08.08). "What #Business Model to Choose for #AR/VR Projects." Retrieved 10.11, 2017, from http://www.linkedin.com/pulse/what-business-model-choose-arvr-projects-anastasiia-bobeshko.
+	
+DIGI-CAPITAL (January 2017). "After mixed year, mobile AR to drive $108 billion VR/AR market by 2021." Retrieved 10.11, 2017, from https://www.digi-capital.com/news/2017/01/after-mixed-year-mobile-ar-to-drive-108-billion-vrar-market-by-2021/#.Wd7g-DA3U2w.
+	
+Wiki (7 September 2017, at 16:10). "Business model." Retrieved 10.11, 2017, from https://en.wikipedia.org/wiki/Business_model.
+	
+百度. "商业模式." Retrieved 10.11, 2017, from https://baike.baidu.com/item/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/4851231?fr=aladdin.
+	
+易观国际 (2016年11月8日). "易观国际：2016中国AR行业应用专题研究报告（附下载）." Retrieved 10.11, 2017, from http://www.199it.com/archives/535986.html.
+
+黄爱群 (2003). "新一代用户界面系统--AR增强现实系统." 家庭电子(5): 14.
+	
+刘露 (2016). "前景光明的增强现实技术." 百科知识(09): 27-28.
+	<正>前段时间,一只以类似3D全息投影形式呈现的小北极熊火遍了全网,在这只萌熊背后,酷炫的增强现实(AR)技术也受到人们热议,该技术在国外已经被广泛运用。AR是增强现实(Augmented Reality)的简称,是在虚拟现实的基础上发展起来的新技术,也被称为混合现实,是通过计算机系统提供的信息
+
+王培霖, et al. (2017). "增强现实(AR):现状、 挑战及产学研一体化展望." 中国电化教育(3): 16-23.
+	随着科技的进步,增强现实(AR)技术逐渐成为一个在教育行业越来越成熟且具有巨大潜力的新技术,增强现实与教育的结合使得书本中抽象的内容具体化、形象化,打破了传统教育模式的局限,给教育行业发展提供了新的机遇和途径.但消费市场热度和用户接受度仍然不够,其产品的用户体验方面还存在一定问题.该文纵观增强现实的历史发展、现状问题和未来趋势,希望通过增强现出版物的方式,节省更改原始纸质图书的成本,将AR技术更好地应用到教育领域帮助学生学习和理解传统教育难以解释的各种抽象概念,实现以最自然有效的方法让孩子们快乐学习,真正走进校园充分发挥AR技术的附加价值.
+
+张志祯 (2016). "虚拟现实教育应用：追求身心一体的教育--从北京师范大学“智慧学习与VR教育应用学术周”说起." 中国远程教育（综合版）(6): 5-15.
+	虚拟现实（VR）涵盖了增强现实（AR）、沉浸式VR （头显式和CAVE）、桌面VR等系列技术与产品。2016年被称为“VR元年”。虽然VR产业目前还不成熟，亟待标准化，但全球教育技术领域正密切关注其发展与教育应用。北京师范大学于2016年3月17—24日举办了“2016北京师范大学‘智慧学习与VR教育应用学术周’”。学术周安排了三次讲座，分别从VR增强学习体验、AR技术与用户体验设计、VR教育平台设计角度审视了VR教育应用。学术周为参观者提供了VR教育资源、创作工具和消费级沉浸式VR设备三类体验产品。参与观察表明：儿童在VR世界中的轻松自如与创作热情令人惊叹。理论分析表明：VR作为机器，应定位于和人类教师协同提供更有效的学习机会；VR作为教学媒体，是课堂教学的强化媒体，更需要学生主动参与；具身认知观确立了身体和体验在认知与学习过程中的合法地位，奠定了VR教育应用的学理基础；经验学习理论强调获得经验不等于有效学习，要提供反思经验的机会。VR教育应用案例的分析表明，VR有七大教育功能：体验、探究、训练、矫正、交流、创作与游戏。VR具备重塑教育的潜力，但VR大范围变革教育的路还很长。本文建议利益相关者协同推进，政府应建立产学研用结合的VR教育应用实证研究体系；研究机构应积极整合资源，开展高生态效度的基础研究；产业需尊重教育规律，重视VR世界中师生的自主性；学校和教师应成为专家学习者，从教育角度思考、尝试VR应用。以典型案例为依托，发展VR学科教学法是推动VR教育应用的基本路径。
+
+Gaudiosi, J. (2015, Apr 25, 2015). "How augmented reality and virtual reality will generate $150 billion in revenue by 2020." Retrieved Oct 11, 2017, from.http://fortune.com/2015/04/25/augmented-reality-virtual-reality.
+	profit，digi-capital 数据分析
+
+Intelligence, B. (2017, Aug. 22, 2016). "The virtual and augmented reality market will reach $162 billion by 2020." Retrieved Oct 11, 2017, from http://www.businessinsider.com/virtual-and-augmented-reality-markets-will-reach-162-billion-by-2020-2016-8.
+	AR未来利润预测
+
+KUMAR, C. (2017, February 22, 2017). "A New Frontier: How Can You Profit from Augmented and Virtual Reality?". Retrieved Oct 11, 2017, from https://www.business.com/articles/how-can-you-profit-from-augmented-and-virtual-reality.
+	
+Merel, T. (2017, Jan 11, 2017 ). " The reality of VR/AR growth." Retrieved Oct 11, 2017, from https://techcrunch.com/2017/01/11/the-reality-of-vrar-growth.
+	profit
+
+中国产业信息 (2016, Sep 23). "2016年中国增强现实（AR）行业发展趋势及市场规模预测【图】." 行业报道. Retrieved Oct 11, 2017, from http://www.chyxx.com/industry/201609/451339.html.
+	智研咨询发布的《2016-2022年中国增强现实行业市场深度调研及投资前景分析报告》
+
+王玉林 (2016, Feb 5). "增强现实（AR,Augmented Reality）现在国内外的发展情况如何？." Retrieved Oct 12, 2017, from https://www.zhihu.com/question/40099190.
+	ar前景，公司介绍
+
+McKerrow, K. (Oct 13, 2016). "How You Can Profit From the Rise of Augmented, Virtual Reality Technology." Retrieved Oct 12, 2017, from https://www.thestreet.com/story/13850980/1/how-you-can-profit-from-the-rise-of-augmented-virtual-reality-technology.html.
+	How You Can Profit From the Rise of Augmented, Virtual Reality Technology. Alibaba's (BABA) one-nod shopping highlights the widening use of virtual and augmented reality technology. VMware (VMW), with its Vuzix partnership, is a promising way to invest in this technology, too.
+
