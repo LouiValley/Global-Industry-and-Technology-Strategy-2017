@@ -1,0 +1,30 @@
+﻿国家发展改革委 (2016, 05-18). "关于印发《“互联网+”人工智能三年行动实施方案》的通知." Retrieved Oct 14, 2017, from http://www.ndrc.gov.cn/zcfb/zcfbtz/201605/t20160523_804293.html.
+	
+国务院 (2016, Dec 15). "“十三五”国家信息化规划." Retrieved Oct 15, 2017, from http://www.gov.cn/zhengce/content/2016-12/27/content_5153411.htm.
+	
+李庆禹 (2016, Sep 18). "文化部关于推动文化娱乐行业转型升级的意见." Retrieved Oct 15, 2017, from http://www.mcprc.gov.cn/whzx/bnsjdt/whscs/201609/t20160921_463527.html.
+	
+刘扬 (2017, 01-15). "中共中央办公厅国务院办公厅印发《关于促进移动互联网健康有序发展的意见》." Retrieved Oct 11, 2017, from http://www.gov.cn/zhengce/2017-01/15/content_5160060.htm.
+	
+周楠 (2016, 09-06). "加快推进供给侧结构性改革  着力增加消费需求有效供给." Retrieved Oct 14, 2017, from http://www.gov.cn/xinwen/2016-09/06/content_5105747.htm.
+
+Digi-Capital (2015). "Digi-Capital：虚拟现实/增强现实全球技术基准." Retrieved 10.14, 2017, from http://www.zhulu.com/article/9496.html.
+	
+高麟鹏, et al. (2011). "增强现实技术与标准化." 《信息技术与标准化》 9: 3.
+详细介绍了增强现实技术、增强现实的应用及其标准化工作的现状。结合我国在该领域的技术和标准化状况，提出了我国在该领域标准化的发展设想。
+
+王聪 (2016). "虚拟现实和增强现实技术及其标准化研究." 《信息技术与标准化》 2016（9）: 5.
+介绍了虚拟现实和增强现实技术及其发展方向，对虚拟现实和增强现实在智能制造、医疗、文物数字重建等领域的典型应用进行了详细阐述，在此基础上分析了虚拟现实和增强现实领域国内外标准化进展。
+
+许晖 and 武晓莉 (2015). "增强现实技术及其相关标准概述." 测绘标准化 Standardization of Surveying and Mapping Sep.2015，31( 3): 4.
+	
+许楠 (2016). "虚拟现实和增强现实领域7项国家标准进入立项程序 ". Retrieved 10.14, 2017, from http://news.xinhuanet.com/vr/2016-09/06/c_129271139.htm.
+
+Ello, C. (2015). "增强现实技术原理及应用." from http://gad.qq.com/article/detail/13551.
+	
+吴帆, et al. (2013). "增强现实技术原理及其在电视中的应用." 电视技术(02): 40-43+47.
+	详细介绍了增强现实技术的原理以及实现增强现实系统的关键技术,包括三维空间注册技术、人机交互技术和3D展现技术。然后对当前增强现实技术在电视领域的应用进行阐述,并分析了电视应用实现中的难点问题。最后,对增强现实技术的进一步研究进行了展望。
+
+(18 October 2017, at 21:25.). "Myron W. Krueger." from https://en.wikipedia.org/wiki/Myron_W._Krueger.
+	
+(1989). Myron Kreuger - Video Place - 1989, Barrie Ellis.
