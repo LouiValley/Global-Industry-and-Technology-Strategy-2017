@@ -1,0 +1,6 @@
+﻿Asbeck, A. T., De Rossi, S. M. M., Galiana, I., Ding, Y., & Walsh, C. J. (2014). Stronger, Smarter, Softer: Next-Generation Wearable Robots. IEEE Robotics & Automation Magazine, 21(4), 22-33. doi:10.1109/mra.2014.2360283
+Bogue, R. (2009). Exoskeletons and robotic prosthetics: a review of recent developments. Industrial Robot: An International Journal, 36(5), 421-427. doi:10.1108/01439910910980141
+Elliott, G., Sawicki, G. S., Marecki, A., & Herr, H. (2013, 24-26 June 2013). The biomechanics and energetics of human running using an elastic knee exoskeleton. Paper presented at the 2013 IEEE 13th International Conference on Rehabilitation Robotics (ICORR).
+Mooney, L. M., Rouse, E. J., & Herr, H. M. (2014). Autonomous exoskeleton reduces metabolic cost of human walking during load carriage. Journal of NeuroEngineering and Rehabilitation, 11(1), 80. doi:10.1186/1743-0003-11-80
+WALSH, C. J., ENDO, K., & HERR, H. (2007). A QUASI-PASSIVE LEG EXOSKELETON FOR LOAD-CARRYING AUGMENTATION. International Journal of Humanoid Robotics, 04(03), 487-506. doi:10.1142/s0219843607001126
+机器人学家. (2015). ReWalk人体外骨骼让截瘫患者走上街头. 商业观察(02), 56-57. 
