@@ -1,4 +1,4 @@
-﻿"<The Three Breakthroughs That Have finally unleashed ai on the world.pdf>."
+"<The Three Breakthroughs That Have finally unleashed ai on the world.pdf>."
 	
 "<基于GPU的现代并行优化算法.pdf>."
 	
@@ -24,4 +24,20 @@ Tucker, A., et al. (2017). "Reprint of "Updating Markov models to integrate cros
 
 Wang, J., et al. (2016). "A novel method to use fuzzy soft sets in decision making based on ambiguity measure and Dempster-Shafer theory of evidence: An application in medical diagnosis." Artif Intell Med 69: 1-11.
 	OBJECTIVE: Recently, fuzzy soft sets-based decision making has attracted more and more interest. Although plenty of works have been done, they cannot provide the uncertainty or certainty of their results. To manage uncertainty is one of the most important and toughest tasks of decision making especially in medicine. In this study, we improve the performance of reducing uncertainty and raising the choice decision level in fuzzy soft set-based decision making. METHODS AND MATERIAL: We make use of two appropriate tools (ambiguity measure and Dempster-Shafer theory of evidence) to improve fuzzy soft set-based decision making. Our proposed approach consists of three procedures: primarily, the uncertainty degree of each parameter is obtained by using ambiguity measure; next, the suitable basic probability assignment with respect to each parameter (or evidence) is constructed based on the uncertainty degree of each parameter obtained in the first step; in the end, the classical Dempster's combination rule is applied to aggregate independent evidences into the collective evidence, by which the candidate alternatives are ranked and the best alternative will be obtained. RESULTS: We compare the results of our proposed method with the recent relative works. Through employing our presented approach, in Example 5, the belief measure of the uncertainty falls to 0.0051 from 0.0751; in Example 6, the belief measure of the uncertainty drops to 0.0086 from 0.0547; in Example 7, the belief measure of the uncertainty falls to 0.0847 from 0.1647; in application, the belief measure of the uncertainty drops 0.0001 from 0.0069. CONCLUSION: Three numerical examples and an application in medical diagnosis are provided to demonstrate adequately that, on the one hand, our proposed method is feasible and efficient; on the other hand, our proposed method can reduce uncertainty caused by people's subjective cognition and raise the choice decision level with the best performance.
+
+姜兴岳, 耿道颖, 沈天真, 陈星荣, 叶晨洲, & 杨杰. (2004). 人工神经元网络鉴别星形胶质细胞瘤良恶性的初步研究. 中国医学计算机成像杂志, 10(4), 217-220. 
+
+万鑫, & 易波. (2009). 模糊推理在疾病辅助诊断系统中的应用研究.
+
+吴政新.基于统计分析技术的疾病智能辅助诊断系统的研究[D].东北大学,2005.DOI:10.7666/d.y853793.
+
+刘叙华. (1989). 模糊逻辑与模糊推理. 长春: 吉林大学出版社.
+
+使用决策树进行分类. from http://blog.csdn.net/gane_cheng/article/details/53897669
+
+马红霞, 郭玉林, 王秋萍, 刘敏, 强永乾, 郭晓娟, . . . CHEN Qi-hang. (2008). 分类决策树辅助CT诊断孤立性肺结节的方法学研究. 中华放射学杂志, 42(1), 50-55.
+
+邓杏娟, & 陈骥. (2008). 基于语音识别技术的失语症辅助诊断及康复治疗系统的研究.
+
+赵林明. (1999). 多层前向人工神经网络. 郑州: 黄河水利出版社.
 
