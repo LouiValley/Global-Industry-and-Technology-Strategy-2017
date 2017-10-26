@@ -1,0 +1,31 @@
+﻿IFR. "international federation of robotics." from https://ifr.org/ifr-press-releases/P22.
+	
+Research, G. V. "Commercial UAV Market Analysis By Product (Fixed Wing, Rotary Blade, Nano, Hybrid), By Application (Agriculture, Energy, Government, Media & Entertainment) And Segment Forecasts To 2022." from http://www.grandviewresearch.com/industry-analysis/commercial-uav-market.
+	
+Technavio. "Offshore Development and Defense Will be Key Growth Areas for Unmanned Underwater Vehicles." from https://www.technavio.com/blog/offshore-development-and-defense-will-be-key-growth-areas-for-unmanned-underwater-vehicles.
+	
+百度百科. "扑翼机百度百科." from https://baike.baidu.com/item/%E6%89%91%E7%BF%BC%E6%9C%BA/9895347?fr=aladdin.
+	
+环球无人机报道. "在人道救援中，没多少科技比无人机做得更好！." from http://uav.huanqiu.com/yyc/2015-05/6431406.html.
+	
+前瞻产业研究院. "2017年无人机市场份额及规模分析." from http://www.xianjichina.com/news/details_41814.html.
+	
+王田苗, et al. (2012). "服务机器人技术研究现状与发展趋势." 中国科学:信息科学(09): 1049-1066.
+	服务机器人技术经过近30年的发展,在机械、信息、材料、控制、医学等多学科交叉方面取得了重要的成果,本文结合作者在机器人领域的相关工作,在分析国内外关于服务机器人发展研究现状的基础上,就服务机器人目前涉及的仿生材料与结构、自重构机器人、复杂环境下机器人动力学问题、智能认知与感知、网络化交互及微纳系统等关键技术的研究进展做简要的综述,并概要展望了其发展趋势.希望能够在把握国际服务机器人前沿技术发展动态的同时,为培育我国服务机器人产业提供相关理论、方法及技术.
+
+维基百科. "AeroVironment_Nano_Hummingbird维基百科." from https://en.wikipedia.org/wiki/AeroVironment_Nano_Hummingbird.
+	
+维基百科. "Micromechanical_Flying_Insect维基百科." from https://en.wikipedia.org/wiki/Micromechanical_Flying_Insect.
+	
+维基百科. "Ornithopter维基百科." from https://en.wikipedia.org/wiki/Ornithopter.
+	
+佚名. "仿生无人机优势愈加明显 软硬件一体化加大市场需求." from http://www.elecfans.com/application/Military_avionics/2016/1221/461472.html.
+	
+易瓦特无人机. "八一八那些脑洞大开的仿生无人机." from http://www.81uav.cn/uav-news/201707/20/24998.html.
+	
+智研咨询. "2016年中国无人机市场现状分析及发展趋势预测." from http://www.chyxx.com/industry/201607/429125.html.
+	
+中国知网. "无人机中国知网学术关注度." from http://kns.cnki.net/kns/brief/Default_Result.aspx?code=CIDX&kw=%E6%97%A0%E4%BA%BA%E6%9C%BA&korder=&sel=1.
+	
+中商情报网. "2016年全球无人机市场状况一览." from http://www.sohu.com/a/109264247_350221.
+	
