@@ -92,13 +92,23 @@ Peek N, Combi C, Marin R, et al. Thirty years of artificial intelligence in medi
 Musen MA, Tu SW, Das AK, Shahar Y. A component-based architecture for automation of protocol-directed therapy. In: [6], p. 3–13
 
 [1]Jensen FV, Andersen SK, Kjaerulff U, Andreassen S. MUNIN—On the case for probabilities in medical expert systems—A practical exercise.In:[9],p. 149–60.
+
 [2]IKolodner JL Case-based reasoning Palo Alto.CA(USA):Morgan Kaufman;1993
+
 [3]McSherry D.Conversational case-based reasoning in medical decision making.In:[10],p.59-66
+
 [4]Suetens P, Verbeeck R, Dalaere D, Nuyts J, Bijnens B. Model-based image segmentation: Methods and applications.In:[8],p.3–24.
+
 [5]Modgil S.Hammond P.Generating symbolic and natural language pertial solutions for inclusion in medical plans.In:[9].p.239-48
+
 [6]Bradbrook K,Winstanley G,Glasspool D,Fox J,Griffiths RN.AI planning technology as a component of computerised clinical practice guidelines.In:[11].p.171-80
+
 [7]Quaglini S.Bellazzi R,Berzuini C,Stefanelli M,Barosi G.A blackboard control architecture for therapy planning .In:[8].p.249-59.
+
 [8]Stefanelli M, Hasman A, Fieschi M, Talmon J, editors. AIME 91. Proceedings of the third conference on artificial intelligence in medicine. Lecture notes in medical informatics, Vol. 44. Berlin (Germany): Springer; 1991.
+
 [9]Fox J, Fieschi M, Engelbrecht R, editors. AIME 87. European conference on artificial intelligence in medicine. Lecture notes in medical informatics, Vol.33.Berlin (Germany): Springer; 1987.
+
 [10]Peleg M, Lavrac˘ N, Combi C, editors. Artificial intelligence in medicine. Pro-ceedings of the 13th conference on artificial intelligence in medicine, AIME 2011. Bled, Slovenia. Lecture notes in artificial intelligence, Vol. 6747. Berlin (Germany): Springer; 2011.
+
 [11]Miksch S, Hunter J, Keravnou ET, editors. Artificial intelligence in medicine. Proceedings of the 10th conference on artificial intelligence in medicine, AIME 2005. Aberdeen, UK. Lecture notes in computer science, Vol. 3581. Berlin (Germany): Springer; 2005.
