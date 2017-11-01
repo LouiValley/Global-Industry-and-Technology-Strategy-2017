@@ -1,6 +1,13 @@
 ﻿Asbeck, A. T., De Rossi, S. M. M., Galiana, I., Ding, Y., & Walsh, C. J. (2014). Stronger, Smarter, Softer: Next-Generation Wearable Robots. IEEE Robotics & Automation Magazine, 21(4), 22-33. doi:10.1109/mra.2014.2360283
 Bogue, R. (2009). Exoskeletons and robotic prosthetics: a review of recent developments. Industrial Robot: An International Journal, 36(5), 421-427. doi:10.1108/01439910910980141
+Browning, R. C., Modica, J. R., Kram, R., & Goswami, A. (2007). The effects of adding mass to the legs on the energetics and biomechanics of walking. Med Sci Sports Exerc, 39(3), 515-525. doi:10.1249/mss.0b013e31802b3562
 Elliott, G., Sawicki, G. S., Marecki, A., & Herr, H. (2013, 24-26 June 2013). The biomechanics and energetics of human running using an elastic knee exoskeleton. Paper presented at the 2013 IEEE 13th International Conference on Rehabilitation Robotics (ICORR).
+Gopura, R. A. R. C., Kiguchi, K., & Bandara, D. S. V. (2011, 16-19 Aug. 2011). A brief review on upper extremity robotic exoskeleton systems. Paper presented at the 2011 6th International Conference on Industrial and Information Systems.
+J. F. Veneman, R. Ekkelenkamp, R. Kruidhof, F. C. T. van der Helm, & Kooij, H. v. d. (2005). Design of a series elastic- and Bowden cable-based actuation system for use as torque-actuator in exoskeleton-type training. 9th International Conference on Rehabilitation Robotics, 2005(ICORR 2005), 496-499. 
+Lee, Y., Kim, Y.-J., Lee, J., Lee, M., Choi, B., Kim, J., . . . Choi, J. (2017). Biomechanical Design of a Novel Flexible Exoskeleton for Lower Extremities. IEEE/ASME Transactions on Mechatronics, 22(5), 2058-2069. doi:10.1109/tmech.2017.2718999
+Ma, S., Yao, J., Wei, X., & Zhu, Y. (2016). Topology optimization design of 6-DOF lower extremity exoskeleton leg for load carrying. Paper presented at the Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC), 2016 IEEE.
 Mooney, L. M., Rouse, E. J., & Herr, H. M. (2014). Autonomous exoskeleton reduces metabolic cost of human walking during load carriage. Journal of NeuroEngineering and Rehabilitation, 11(1), 80. doi:10.1186/1743-0003-11-80
 WALSH, C. J., ENDO, K., & HERR, H. (2007). A QUASI-PASSIVE LEG EXOSKELETON FOR LOAD-CARRYING AUGMENTATION. International Journal of Humanoid Robotics, 04(03), 487-506. doi:10.1142/s0219843607001126
+Zoss, A. B., Kazerooni, H., & Chu, A. (2006). Biomechanical design of the Berkeley lower extremity exoskeleton (BLEEX). IEEE/ASME Transactions on Mechatronics, 11(2), 128-138. doi:10.1109/tmech.2006.871087
+范伯骞. (2017). 液压驱动下肢外骨骼机器人关键技术研究. (博士), 浙江大学.  Available from Cnki  
 机器人学家. (2015). ReWalk人体外骨骼让截瘫患者走上街头. 商业观察(02), 56-57. 
