@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+﻿[http://www.eepw.com.cn/article/201706/359912.htm 电子产品世界eepw-106家人工智能医疗企业已实现辅助诊断]
+
+[http://36kr.com/p/5070022.html 36Kr-吃药也需要自拍？]
+
+[http://tech.163.com/16/0528/17/BO602CI300094P40.html 网易科技-美国健康IT公司Lumiata获1000万美元B轮融资]
+
+http://www.sohu.com/a/124783143_274126 搜狐科技-Arterys怕是要革新医疗影像数据分析技术]
+
+[http://36kr.com/p/30797.html 36Kr-创业公司GINGER.io通过手机判断并告诉你什么时候你生病了]
+
+[http://www.360doc.com/content/15/0122/14/2459_442827937.shtml 360图书馆-大数据“显影”，Ayasdi用拓扑数据分析癌症]
+
+[http://blog.sina.com.cn/s/blog_15e10cca10102w4va.html 新浪-监控手术失血量的Gauss Surgical公司获1260万美元融资]
+
+=======
+Niels Peek, Carlo Combi, Roque Marin, Riccardo Bellazzi, Thirty years of artificial intelligence in medicine (AIME) conferences: A review of research themes, In Artificial Intelligence in Medicine, Volume 65, Issue 1, 2015, Pages 61-73, ISSN 0933-3657, https://doi.org/10.1016/j.artmed.2015.07.003. from:http://www.sciencedirect.com/science/article/pii/S0933365715000871
+>>>>>>> aec22edc8fd50ea7fbb7e216dffe5bbfe45a7fa7
