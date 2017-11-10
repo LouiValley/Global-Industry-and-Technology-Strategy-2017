@@ -1,0 +1,28 @@
+?microsoft (2017). "Mixed reality with HoloLens." from https://www.microsoft.com/en-us/hololens/why-hololens.
+	
+microsoft (2017). "Gaze." from https://developer.microsoft.com/en-us/windows/mixed-reality/gaze.
+	
+Surur (2016, Dec 12). "Microsoft patents capacitive eye tracking using the bulge in your eyeball." Retrieved Nov 7, 2017, from https://mspoweruser.com/microsoft-patents-capacitive-eye-tracking-using-the-bugle-in-your-eyeball/.
+	
+wiki维基百科. "Eye tracking." from https://en.wikipedia.org/wiki/Eye_tracking#cite_note-50.
+	
+(2011). "Artoolkit 的工作原理." from https://wenku.baidu.com/view/fde902e0524de518964b7d30.html.
+	
+ARToolKit. "Documentation." 2017, from https://archive.artoolkit.org/documentation/.
+	
+ARToolKit. "History." from https://archive.artoolkit.org/about-artoolkit.
+	
+Github. "ARToolKit." 2017, from https://github.com/artoolkit.
+	
+Wiki. "ARToolKit." 2017, from https://en.wikipedia.org/wiki/ARToolKit.
+	
+百度百科. "ARTookKit." 2017, from https://baike.baidu.com/item/ARToolkit/5726883?fr=aladdin.
+	
+. "About ARToolKit." from https://archive.artoolkit.org/about-artoolkit.
+	
+. "ARToolKit-GitHub." from https://github.com/artoolkit.
+	
+. "Vuforia中文社区
+." from http://vuforia.csdn.net/.
+	
+. "网易洞见." from http://dongjian.163.com/.
