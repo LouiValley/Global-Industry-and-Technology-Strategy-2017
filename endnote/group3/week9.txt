@@ -1,0 +1,18 @@
+﻿*[https://www.gartner.com/newsroom/id/3412017  Gartner's 2016 Hype Cycle for Emerging Technologies Identifies Three Key Trends That Organizations Must Track to Gain Competitive Advantage]
+
+*[https://tsinghua-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_cqvip671152086&context=PC&vid=86THU&search_scope=online_scope&tab=online_tab&lang=zh_CN  李兰娟. (2017). 智能医疗的进展与前景. 中国科技产业, (01), 66-67.]
+
+*[http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=SJTY201503030&uid=WEEvREcwSlJHSldRa1FhcTdWZDhML2VZS0kwVUVEekxMS1Ezb0lOT1dwdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDQ2NDlEaDFUM3FUcldNMUZyQ1VSTDJlWnVSckZpRGxVYi9KTmlmZmQ3RzRIOVRNckk5R1pJUjhlWDFMdXhZUzc= 周丽雯. 智能医疗产品设计展望[J]. 设计,2015,(03):78-79.]
+
+*[http://www.zdnet.com/article/googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare/ Google's DeepMind and the NHS: A glimpse of what AI means for the future of healthcare] 2017-11-23
+
+*[https://zhuanlan.zhihu.com/p/23823079 人工智能与医疗健康的墙里与墙外] 2017-11-23
+
+*[https://zhuanlan.zhihu.com/p/26690628 在英特尔与阿里云为之站队的「 DE 超声机器人」背后，是人工智能+医疗的广阔前景] 2017-11-23
+
+[http://tech.ifeng.com/a/20171025/44729690_0.shtml <nowiki>[1]. 汇医慧影获数亿元B轮融资，人工智能辅助诊断已落地700家医院 </nowiki>]
+
+<br/>[http://www.cn-healthcare.com/articlewm/20170915/content-1017473.html <nowiki>[2]. 浅析医疗人工智能技术的发展前景</nowiki>]
+
+<br/>[http://tech.hqew.com/fangan_1924506 <nowiki>[3]. 医疗人工智能实现辅助诊断，未来发展潜力巨大</nowiki>]
+
