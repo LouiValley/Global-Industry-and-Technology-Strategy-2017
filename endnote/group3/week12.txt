@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *[https://www.gartner.com/newsroom/id/3412017  Gartner's 2016 Hype Cycle for Emerging Technologies Identifies Three Key Trends That Organizations Must Track to Gain Competitive Advantage]
 *[https://tsinghua-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_cqvip671152086&context=PC&vid=86THU&search_scope=online_scope&tab=online_tab&lang=zh_CN  ÀîÀ¼¾ê. (2017). ÖÇÄÜÒ½ÁÆµÄ½øÕ¹ÓëÇ°¾°. ÖĞ¹ú¿Æ¼¼²úÒµ, (01), 66-67.]
 *[http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=ZHZC201704022&uid=WEEvREcwSlJHSldRa1FhdXNXYXFuU20weXFlSG15eWxTdm9aMG5OYU1Cdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDQ1MTdvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTDJlWmVkckZ5emdVYjdQUHlYUmJiRzRIOWJNcTQ5SFo= ÍõÎıÉ½. Î´À´Ò½Ñ§Ê±´ú¡ª¡ªÈË¹¤ÖÇÄÜÕïÁÆ<nowiki>[J]</nowiki>. ÖĞ»ª½áÖ±³¦¼²²¡µç×ÓÔÓÖ¾,2017,6(04):349-352.]
@@ -5,3 +6,8 @@
 *[http://tech.ifeng.com/a/20171025/44729690_0.shtml <nowiki>»ãÒ½»ÛÓ°»ñÊıÒÚÔªBÂÖÈÚ×Ê£¬ÈË¹¤ÖÇÄÜ¸¨ÖúÕï¶ÏÒÑÂäµØ700¼ÒÒ½Ôº </nowiki>]
 *[http://www.cn-healthcare.com/articlewm/20170915/content-1017473.html <nowiki>Ç³ÎöÒ½ÁÆÈË¹¤ÖÇÄÜ¼¼ÊõµÄ·¢Õ¹Ç°¾°</nowiki>]
 *[http://tech.hqew.com/fangan_1924506 <nowiki>Ò½ÁÆÈË¹¤ÖÇÄÜÊµÏÖ¸¨ÖúÕï¶Ï£¬Î´À´·¢Õ¹Ç±Á¦¾Ş´ó</nowiki>]
+=======
+ç‹é”¡å±±. æœªæ¥åŒ»å­¦æ—¶ä»£â€”â€”äººå·¥æ™ºèƒ½è¯Šç–—[J]. ä¸­åç»“ç›´è‚ ç–¾ç—…ç”µå­æ‚å¿—,2017,6(04):349-352. from:http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=ZHZC201704022&uid=WEEvREcwSlJHSldRa1FhdXNXYXFuU20weXFlSG15eWxTdm9aMG5OYU1Cdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDQ1MTdvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTDJlWmVkckZ5emdVYjdQUHlYUmJiRzRIOWJNcTQ5SFo=
+
+Can computers help doctors reduce diagnostic errors? Experts in the field of artificial intelligence and machine learning discuss the future of medicine. Medical Economics, 94(1), 20-21. from:https://tsinghua-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_gale_hrca479869646&context=PC&vid=86THU&search_scope=online_scope&tab=online_tab&lang=zh_CN Shryock, Todd. (2017).
+>>>>>>> a1486e9cb460e83e039012d867bbe3414414f600

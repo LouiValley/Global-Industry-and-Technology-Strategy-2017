@@ -1,0 +1,30 @@
+网易科技报道. ""大数据"这词不火了 是不是因为没当年说的那么好." from http://tech.163.com/17/1019/07/D13GJPSS00097U7T.html.
+	
+Evans, E. Domain-Driven	Design Reference
+, Eric Evans 
+	
+Garakh, I. "Application Design: Data-driven vs Domain-driven." from https://passwork.me/info/blog/applicationdesign.
+	
+Stenberg, J. "Eric Evans on DDD, Microservices and Boundaries." from https://www.infoq.com/news/2015/06/dddx-microservices-boundaries.
+	
+Moreno, A. "Data-Driven Design In The Real World." from https://www.smashingmagazine.com/2013/09/data-driven-design-in-the-real-world/.
+	
+HDR. "Data-Driven Design." from https://www.hdrinc.com/data-driven-design.
+	
+Moreno, A. (2013, September 24th). "Data-Driven Design In The Real World." from https://www.smashingmagazine.com/2013/09/data-driven-design-in-the-real-world/.
+	“Data-Driven” Design 
+
+Schocken, S. (2011). "Taming Complexity in Large-Scale System Projects." Efi Arazi School of Computer Science: 1-9.
+	
+wiki维基百科. "Domain-driven design." from https://en.wikipedia.org/wiki/Domain-driven_design.
+	
+焦永红, et al. (2008). "三维记录眼球运动:巩膜搜索线圈与视频眼动描计法的对比 " 《国际眼科纵览》 32（6）: 4.
+	
+吴万敏 and 董飞 (2016). "AR技术不得不说的秘密." 2017, from http://www.360doc.com/content/16/0303/16/451431_539121792.shtml.
+	
+佚名 (2016). "警惕VR深水区：你真的了解FOV么?". 2017, from http://www.elecfans.com/vr/421661.html.
+	
+张李娜 (2014). 巩膜搜索线圈对微扫视性眼球运动幅度影响的观察与分析. 临床医学, 天津医科大学. 硕士: 49.
+	
+章敏 (2016). "你知道吗？VR或AR的精度和分辨率可以进一步提升！ ". 2017, from https://www.leiphone.com/news/201607/h1ZE7GYPTMY1pZ6v.html.
+	

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿[http://www.eepw.com.cn/article/201706/359912.htm 电子产品世界eepw-106家人工智能医疗企业已实现辅助诊断]
 
 [http://36kr.com/p/5070022.html 36Kr-吃药也需要自拍？]
@@ -18,3 +19,6 @@ Niels Peek, Carlo Combi, Roque Marin, Riccardo Bellazzi, Thirty years of artific
 =======
 Niels Peek, Carlo Combi, Roque Marin, Riccardo Bellazzi, Thirty years of artificial intelligence in medicine (AIME) conferences: A review of research themes, In Artificial Intelligence in Medicine, Volume 65, Issue 1, 2015, Pages 61-73, ISSN 0933-3657, https://doi.org/10.1016/j.artmed.2015.07.003. from:http://www.sciencedirect.com/science/article/pii/S0933365715000871
 >>>>>>> aec22edc8fd50ea7fbb7e216dffe5bbfe45a7fa7
+=======
+Niels Peek, Carlo Combi, Roque Marin, Riccardo Bellazzi, Thirty years of artificial intelligence in medicine (AIME) conferences: A review of research themes, In Artificial Intelligence in Medicine, Volume 65, Issue 1, 2015, Pages 61-73, ISSN 0933-3657, https://doi.org/10.1016/j.artmed.2015.07.003. from:http://www.sciencedirect.com/science/article/pii/S0933365715000871
+>>>>>>> a1486e9cb460e83e039012d867bbe3414414f600
